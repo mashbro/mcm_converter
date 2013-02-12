@@ -1,0 +1,6 @@
+Two simple Processing scripts to convert .mcm files to .png and vice versa.
+Run mcm_to_png to generate a .png file from your .mcm file, edit it in your favorite editor and then run png_to_mcm to create your new .mcm file.
+
+Use this in any way you like.
+
+WHEN USING THE NEW .MCM FILE FOR AN OSD, PLEASE CHECK IF EVERYTHING WORKS AS EXPECTED BEFORE TAKEOFF!
